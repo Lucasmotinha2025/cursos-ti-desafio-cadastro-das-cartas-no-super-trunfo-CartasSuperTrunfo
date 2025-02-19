@@ -6,7 +6,7 @@ int main(){
     char Cid[20] = "Maceió";
     int Pop = 1388000;
     float Are = 503.7;
-    float Pi = 27.484;
+    float Pi = 274.84;
     int Pont = 23;
 
     printf("Carta 1:\n");
